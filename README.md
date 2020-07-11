@@ -42,4 +42,4 @@ npm run start
 ![Arquitectura por capas](./docs/Arquitectura.png)
 
 ### Diagrama Entidad Relación:
-![Diagrama Entidad Relación - Centros Hospitalarios-DER](./docs/CentrosHospitalarios.png)
+![Diagrama Entidad Relación - Centros Hospitalarios](./docs/CentrosHospitalarios-DER.png)
