@@ -43,13 +43,3 @@ npm run start
 
 ### Diagrama Entidad Relación:
 ![Diagrama Entidad Relación - Centros Hospitalarios](./docs/CentrosHospitalarios.png)
-
-### Diagrama de Clase:
-![Diagrama de Clase - Centros Hospitalarios](./docs/DiagramaClaseCH.png)
-
-
-=======
-=======
-# 2020-G3-TPI
-Trabajo práctico Integrador - Grupo 3 - 2020
-=======
